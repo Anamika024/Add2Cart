@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "productId": "E101",
+      "name": "Samsung Galaxy S21",
+      "price": 799.99,
+      "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, 128GB storage, and a powerful Exynos 2100 processor. It has a 64MP triple camera setup and supports 5G connectivity.",
+      "category": "Smartphones",
+      "brand": "Samsung",
+      "stock": 50,
+      "rating": 4.5,
+      "imageUrl": "https://example.com/images/samsung-galaxy-s21.jpg"
+    },
+    {
+      "productId": "E102",
+      "name": "Apple MacBook Pro 14",
+      "price": 1999.99,
+      "description": "The new MacBook Pro 14 features the powerful M1 Pro chip, a stunning 14.2-inch Liquid Retina XDR display, and a long-lasting battery life. Ideal for professionals and creatives.",
+      "category": "Laptops",
+      "brand": "Apple",
+      "stock": 25,
+      "rating": 4.8,
+      "imageUrl": "https://example.com/images/macbook-pro-14.jpg"
+    }
+  ],
+  "mobilePlans": [
+    {
+      "planId": "M101",
+      "name": "Unlimited 5G Plan",
+      "price": 69.99,
+      "description": "Unlimited talk, text, and data with access to the 5G network. Includes free international texting and hotspot data.",
+      "data": "Unlimited",
+      "talkTime": "Unlimited",
+      "validity": "30 days",
+      "addOns": ["International texting", "10GB Hotspot"],
+      "planType": "Postpaid"
+    },
+    {
+      "planId": "M102",
+      "name": "Prepaid 10GB Plan",
+      "price": 29.99,
+      "description": "Includes 10GB of high-speed data, unlimited talk and text, and 3GB of hotspot data. No contract required.",
+      "data": "10GB",
+      "talkTime": "Unlimited",
+      "validity": "30 days",
+      "addOns": ["3GB Hotspot", "Carryover data"],
+      "planType": "Prepaid"
+    }
+  ],
+  "broadcastPlans": [
+    {
+      "planId": "B201",
+      "name": "Premium HD Channels Package",
+      "price": 59.99,
+      "description": "Access to 150+ HD channels including sports, movies, and international channels. Includes 100 hours of DVR storage.",
+      "channels": 150,
+      "dvrStorage": "100 hours",
+      "validity": "30 days",
+      "addOns": ["On-demand movies", "Premium sports channels"]
+    },
+    {
+      "planId": "B202",
+      "name": "Basic Cable Package",
+      "price": 29.99,
+      "description": "Access to 50+ channels including news, kids, and local networks. No DVR storage included.",
+      "channels": 50,
+      "dvrStorage": "None",
+      "validity": "30 days",
+      "addOns": ["Local channels", "News channels"]
+    }
+  ],
+  "telecomServices": [
+    {
+      "serviceId": "T301",
+      "name": "Home Internet 500Mbps",
+      "price": 49.99,
+      "description": "High-speed home internet with 500Mbps download and upload speeds. Includes free router and 24/7 tech support.",
+      "speed": "500Mbps",
+      "dataCap": "Unlimited",
+      "contract": "No contract",
+      "validity": "30 days",
+      "addOns": ["Free Router", "24/7 tech support"]
+    },
+    {
+      "serviceId": "T302",
+      "name": "Fiber Optic 1Gbps",
+      "price": 79.99,
+      "description": "Blazing fast fiber optic internet with 1Gbps speeds, perfect for gaming and streaming. Includes free router and security features.",
+      "speed": "1Gbps",
+      "dataCap": "Unlimited",
+      "contract": "12-month contract",
+      "validity": "30 days",
+      "addOns": ["Free Router", "Security Suite"]
+    }
+  ]
+}
