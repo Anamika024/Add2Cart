@@ -48,13 +48,6 @@ This project aims to streamline the upgrade and purchase process within e-commer
 
 ---
 
-## **Getting Started**
-
-### **Prerequisites**
-
-- **Node.js** and **npm/yarn** installed for backend and frontend setup.
-- **Database** setup (MongoDB, MySQL, or PostgreSQL).
-- For real-time collaboration, set up **Firebase** or **WebSockets** on your server.
-- Basic knowledge of **NFC** or **QR Code** technology if using these methods for cart sharing.
-
+## Demo
+APK Link: [Drive link]()
 
