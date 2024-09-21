@@ -24,9 +24,10 @@ This project aims to streamline the upgrade and purchase process within e-commer
     - Notifications are triggered when users make changes to the cart.
 
 
-## **How Multi-Cart sharing work?**
+## **How Multi-user cart sharing work?**
 
-![Multi_Cart Sharing]("cart_sharing.png")
+![Multi_user cart Sharing](cart_sharing.png)
+
 
 ## **Tech Stack**
 
