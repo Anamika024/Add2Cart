@@ -20,22 +20,13 @@ This project aims to streamline the upgrade and purchase process within e-commer
     - Add, update, or remove multiple products from the shared cart.
     - Other users can modify the same cart simultaneously.
 
-4. **Notifications (Good-to-Have)**:
+4. **Notifications**:
     - Notifications are triggered when users make changes to the cart.
 
-5. **In-Cart Notes or Chat (Good-to-Have)**:
-    - Users can leave comments or chat within the cart to discuss products and upgrades.
 
-6. **Analytics and Insights (Bonus)**:
-    - Track metrics like cart sharing frequency and the average time to complete group orders.
+## **How Multi-Cart sharing work?**
 
-7. **Multiplatform Support (Bonus)**:
-    - Cross-platform compatibility with web, Android, and iOS.
-
-8. **Innovative NFC Cart Sharing (Bonus)**:
-    - Use NFC capabilities for quick, innovative cart sharing on mobile devices.
-
----
+![Multi_Cart Sharing]("cart_sharing.png")
 
 ## **Tech Stack**
 
