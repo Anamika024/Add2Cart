@@ -5,7 +5,7 @@ Cart sharing and group ordering for shop experience in the Telco Applications.
 
 This project aims to streamline the upgrade and purchase process within e-commerce applications, especially in the context of telecom apps. It allows a primary account holder to share their cart, device upgrade plans, or product selections with multiple account holders (e.g., family members, friends) in real-time. By integrating cart-sharing features, the app facilitates easy collaboration between users on upgrades and purchases without manual coordination outside the app.
 
-[![Click to watch the video]()
+[![Click to watch the video](https://drive.google.com/file/d/1OHseuD-XuMslHnd_ewDC6Z2tCbHi8mk1/view?usp=drivesdk)
 
 ## **Features**
 
